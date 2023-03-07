@@ -1,0 +1,7 @@
+{
+  "mail": {
+    "host": "pro-server@localhost"
+  },
+  "jwtPrivateKey": "Private",
+  "db": "mongodb+srv://testuser:lFWWVJbc9fjmx8mP@abcmovie.jkwlq7i.mongodb.net"
+}

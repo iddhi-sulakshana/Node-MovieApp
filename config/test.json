@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "SecretKey",
+  "db": "mongodb://127.0.0.1/movieApp_test"
+}

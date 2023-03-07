@@ -1,0 +1,5 @@
+{
+  "name": "My express app",
+  "jwtPrivateKey": "Private",
+  "db": "mongodb+srv://testuser:lFWWVJbc9fjmx8mP@abcmovie.jkwlq7i.mongodb.net"
+}
